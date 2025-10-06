@@ -1,16 +1,13 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Faizan Ahmed Khan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Faizan Ahmed
+last_name: Khan
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
@@ -20,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: AI & Data Science Researcher | InteRussia STEM Fellow at Skoltech | BS Computer Science, HITEC University
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,49 +28,37 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:faizanahmedkhan48@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/BuildLore
+    url: https://x.com/thedatafae
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/thedatafae
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/thedatafae/
   - icon: brands/instagram
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Visiting Student, Innovation Workshop (6 ECTS)
+    institution: Skolkovo Institute of Science and Technology (Skoltech), Russia
+    date_start: 2025-08-31
+    date_end: 2025-09-28
+    summary: |
+      Selected as a Visiting Student under the prestigious InteRussia STEM Fellowship, hosted by Skoltech and Rossotrudnichestvo. Successfully completed and passed the Innovation Workshop — an MSc/PhD-level interdisciplinary course focused on innovation, prototyping, and entrepreneurship.
+  - area: BSc Computer Science
+    institution: HITEC University, Taxila
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  summary: |
+      CGPA: 3.01/4.00    
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Machine Learning and Artificial Intelligence  
+      - Data Mining and Analytics  
+      - Information Security and Cryptography  
+      - Database Systems and Software Engineering  
+      - Computer Networks and Operating Systems
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
