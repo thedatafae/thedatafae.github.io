@@ -21,11 +21,14 @@ role: AI & Data Science Researcher | InteRussia STEM Fellow at Skoltech | BS Com
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Skolkovo Institute of Science and Technology (Skoltech)
+    url: https://www.skoltech.ru/en/
+  - name: InteRussia STEM Fellowship
+    url: https://russia-edu.minobrnauki.gov.ru/
+  - name: HITEC University
+    url: https://hitecuni.edu.pk/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:faizanahmedkhan48@gmail.com'
@@ -39,19 +42,22 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
 
+# Education
 education:
   - area: Visiting Student, Innovation Workshop (6 ECTS)
     institution: Skolkovo Institute of Science and Technology (Skoltech), Russia
     date_start: 2025-08-31
     date_end: 2025-09-28
     summary: |
-      Selected as a Visiting Student under the prestigious InteRussia STEM Fellowship, hosted by Skoltech and Rossotrudnichestvo. Successfully completed and passed the Innovation Workshop — an MSc/PhD-level interdisciplinary course focused on innovation, prototyping, and entrepreneurship.
-  - area: BSc Computer Science
+      - Selected under the prestigious **InteRussia STEM Fellowship** at Skoltech, Moscow  
+      - Contributed to **AI-driven materials discovery and robotics research**  
+      - Completed and passed **Skoltech’s Innovation Workshop (6 ECTS)** on innovation and entrepreneurship
+  - area: BS Computer Science
     institution: HITEC University, Taxila
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-  summary: |
-      CGPA: 3.01/4.00    
+    date_start: 2020-10-01
+    date_end: 2024-08-01
+    summary: |
+      CGPA: 3.01/4.00  
 
       Courses included:
       - Machine Learning and Artificial Intelligence  
@@ -59,76 +65,67 @@ education:
       - Information Security and Cryptography  
       - Database Systems and Software Engineering  
       - Computer Networks and Operating Systems
+
+# Experience
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: AI & Data Science Researcher (Visiting Student)
+    company_name: Skolkovo Institute of Science and Technology (Skoltech)
+    company_url: https://www.skoltech.ru/en/
+    date_start: 2025-08-31
+    date_end: 2025-09-28
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Selected under the **InteRussia STEM Fellowship**  
+      - Worked on AI, robotics, and data-driven materials discovery projects  
+      - Collaborated with MSc and PhD researchers in a multicultural environment  
+  - position: Data Science & AI Practitioner (Independent)
+    company_name: Self-directed Projects
+    date_start: 2024-01-01
+    date_end: Present
+    summary: |
+      - Building expertise in data science, analytics, and AI  
+      - Developing portfolio projects in Python, SQL, and Power BI  
+      - Preparing for international MS/PhD scholarships and research opportunities
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        percent: 90
         icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
+      - name: SQL
+        percent: 80
+        icon: devicon/mysql
+      - name: Power BI
+        percent: 70
+        icon: devicon/powerbi
+      - name: Machine Learning
+        percent: 75
         icon: devicon/pytorch
-  - name: Hobbies
+  - name: Interests
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
+      - name: Data Science
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+        icon: chart-bar
+      - name: Artificial Intelligence
+        percent: 90
+        icon: brain
+      - name: Robotics
         percent: 80
-        icon: camera
+        icon: robot
 
+# Languages
 languages:
   - name: English
     percent: 100
+  - name: Urdu
+    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 60
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -136,25 +133,21 @@ awards:
     awarder: Coursera
     icon: brands/coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Learned to build, train, and optimize deep neural networks and understand the core principles behind modern AI systems.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
     icon: brands/edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+      Studied blockchain architecture, consensus algorithms, and real-world decentralized systems applications.
+  - title: Object-Oriented Programming in R
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
     date: '2023-01-21'
-    awarder: datacamp
+    awarder: Datacamp
     icon: brands/datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Learned to manage complexity in R programming using OOP paradigms with S3 and R6 systems.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am an aspiring **AI and Data Science researcher** passionate about building data-driven solutions and pursuing advanced research. I recently completed the **InteRussia STEM Fellowship at Skoltech**, where I worked on innovation and robotics projects. I’m currently expanding my technical expertise and preparing for **fully funded international scholarships** in AI, Data Science, and Information Engineering.
